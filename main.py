@@ -1,6 +1,2 @@
-
-
-
-
 name ="Yoav"
 print("Hello ")
